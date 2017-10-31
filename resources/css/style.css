@@ -1,7 +1,6 @@
 body {
 	font-family: verdana;
 	background: black;
-	text-align: center;
 }
 
 h1 {
@@ -24,6 +23,7 @@ h2 {
 p {
 	font-size: 21px;
 	color: gray;
+	text-align: center;
 }
 
 .copyright {
